@@ -1,0 +1,17 @@
+{
+  "name": "whitespace-lang",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "whitespacec": "whitespacec"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
